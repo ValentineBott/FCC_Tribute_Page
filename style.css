@@ -1,0 +1,48 @@
+html, body {
+    font-family: calibri, sans-serif;
+    color: rgb(58, 87, 89);
+  }
+  
+  #tribute-info h3 {
+    font-size: 24px;
+  }
+  
+  #main {
+    height: auto;
+    margin: 2% auto;
+    padding: 1%;
+    background-color: rgb(212, 236, 236);
+    border-radius: 10px;
+    min-width: 260px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 500px;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-div {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    font-size: 10px;
+  }
+  
+  #tribute-info {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+  
+  li {
+    padding: 1em;
+  }
